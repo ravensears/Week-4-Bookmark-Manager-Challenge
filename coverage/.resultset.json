@@ -1,0 +1,19 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/rrs/bookmarkmanager-challenge/spec/features/bookmark_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      }
+    },
+    "timestamp": 1641830612
+  }
+}
