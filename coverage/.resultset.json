@@ -10,10 +10,53 @@
           1,
           1,
           null,
+          1,
+          null,
           null
         ]
       },
       "/Users/rrs/bookmarkmanager-challenge/spec/features/bookmark_spec.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/rrs/bookmarkmanager-challenge/spec/database_helpers.rb": {
         "lines": [
           1,
           null,
@@ -21,26 +64,6 @@
           1,
           1,
           1,
-          null,
-          1,
-          1,
-          1,
-          null,
-          1,
-          null,
-          1,
-          1,
-          1,
-          null,
-          null,
-          null,
-          1,
-          1,
-          1,
-          null,
-          1,
-          null,
-          null,
           null
         ]
       },
@@ -59,8 +82,6 @@
           1,
           1,
           1,
-          null,
-          1,
           1,
           1,
           null,
@@ -74,6 +95,6 @@
         ]
       }
     },
-    "timestamp": 1642008267
+    "timestamp": 1642096670
   }
 }
